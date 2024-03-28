@@ -17,7 +17,7 @@ This project aims to detect words by analyzing lip movements, leveraging compute
 1. Clone the repository:
    ```bash
    git clone https://github.com/anishsoni29/LipNet
-   cd lipsync-word-detector
+   cd LipNet
    ```
 
 2. Install dependencies:
